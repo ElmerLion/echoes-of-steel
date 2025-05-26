@@ -3,13 +3,14 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 .utmp/
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+/Echoes Of Steel - URP/[Ll]ibrary/
+/Echoes Of Steel - URP/[Tt]emp/
+/Echoes Of Steel - URP/[Oo]bj/
+/Echoes Of Steel - URP/[Bb]uild/
+/Echoes Of Steel - URP/[Bb]uilds/
+/Echoes Of Steel - URP/[Ll]ogs/
+/Echoes Of Steel - URP/[Uu]ser[Ss]ettings/
+/Echoes Of Steel - URP/[Aa]ssets/Imported Assets/
 *.log
 
 # MemoryCaptures can get excessive in size.
