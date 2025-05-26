@@ -1,0 +1,16 @@
+Key,Id,Chinese (Simplified)(zh-Hans),English(en),French(fr),Japanese(ja),Russian(ru),Spanish(es),Swedish(sv)
+"ShowHud",2541430262554624,"显示 HUD","Show HUD","Afficher HUD","HUD表示","Показать HUD","Mostrar HUD","Visa HUD"
+"Language",2541430262554625,"语言","Language","Langue","言語","Язык","Idioma","Språk"
+"UI",2541430262554626,"用户界面","UI","UI","ユーザーインターフェース","UI","UI","UI"
+"MusicVolume",2541430262554627,"音乐音量","Music Volume","Volume de la musique","音楽音量","Громкость музыки","Volumen de música","Musikvolym"
+"SoundEffectsVolume",2541430262554628,"音效音量","Sound Effects Volume","Volume des effets sonores","効果音の音量","Громкость звуковых эффектов","Volumen de efectos de sonido","Ljudeffektsvolym"
+"EnvironmentVolume",2541430262554629,"环境音量","Environment Volume","Volume d'ambiance","環境音量","Громкость окружения","Volumen de entorno","Miljövolym"
+"JumpscareVolume",2541430262554630,"惊吓音量","Jumpscare Volume","Volume de jumpscare","ジャンプスケア音量","Громкость пугающих моментов","Volumen de sustos","Jumpscare-volym"
+"Interact_Pickup",24133107712,"按E键拾取{0}","Press E to pick up {0}","Appuyez sur E pour ramasser {0}","{0}を拾うにはEを押してください","Нажмите E, чтобы подобрать {0}","Presiona E para recoger {0}","Tryck på E för att plocka upp {0}"
+"Start",2491971252084736,"开始","Start","Démarrer","開始 (かいし)","Начать","Comenzar","Starta"
+"Options",2492994909724672,"选项","Options","Options","オプション","Опции","Opciones","Alternativ"
+"Quit",2494337405771776,"退出","Quit","Quitter","終了 (しゅうりょう)","Выйти","Salir","Avsluta"
+"Audio",2537512925224960,"音频","Audio","Audio","オーディオ","Аудио","Audio","Ljud"
+"MasterVolume
+",2537668705869824,"主音量","Master Volume","Volume principal","マスターボリューム","Основная громкость","Volumen principal","Huvudvolym"
+"Continue",3609869752045568,"继续","Continue","Continuer","続ける (つづける)","Продолжить","Continuar","Fortsätt"

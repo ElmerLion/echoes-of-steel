@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: NoteTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: bc2dcb63b8bf34147ae59939cde0fd66, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 28531573830017024
+    m_Localized: "Memo to management: We\u2019ve had another incident with Unit #57.
+      Recommend discontinuing use of this model until further notice."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573876154368
+    m_Localized: "Machinery inspection due next Monday. Two units offline. Routine
+      maintenance\u2026 but I keep hearing that sound. Has anyone checked the north
+      wing recently?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573880348672
+    m_Localized: The north wing entrance just collapsed from some sort of shockwave.
+      There are weird sounds coming from the other side...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573884542976
+    m_Localized: I leave this flashlight for the next unfortunate soul that ends
+      up here...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737280
+    m_Localized: "I saw it\u2026 the ritual failed. It wasn\u2019t just the candles
+      or the circle. It was watching me, waiting for me to make a mistake."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737281
+    m_Localized: I don't know what that sound was... sounded like some sort of machine
+      starting.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737282
+    m_Localized: The candles need to be placed correctly or it won't work...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737283
+    m_Localized: "They said I needed a piece of its soul for the ritual. Not its
+      body\u2026 something more. I thought maybe a photo could capture it. But getting
+      close enough, if you're reading this, be careful. It watches, it listens, and
+      it never forgets."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737284
+    m_Localized: "There\u2019s something ancient in these walls. It\u2019s not just
+      the machines that are alive. The whole building shifts and bends to its will,
+      trapping us inside like rats. Whatever is down here doesn\u2019t want us to
+      leave."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737285
+    m_Localized: We tried disconnecting them, but the power keeps coming back on.
+      It's like the machines are alive, feeding off something we can't see.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737286
+    m_Localized: Management knew what they were doing. They wanted to push the machines,
+      see what would happen. We were just data points to them. Now the machines have
+      turned on us, and management is nowhere to be found.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737287
+    m_Localized: "Found something strange today\u2014a skull, but not from any animal
+      I\u2019ve ever seen. Almost feels\u2026 alive. It was near the old dig site,
+      glowing faintly under the torchlight. I don\u2019t know why, but I feel it\u2019s
+      important."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737288
+    m_Localized: "We uncovered a room today\u2026 a strange one, deep beneath the
+      rock. There\u2019s a well in the center, dry as bone, surrounded by old tombs.
+      The air is heavy, like it\u2019s pressing down on my chest, and there\u2019s
+      something\u2026 watching."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737289
+    m_Localized: "These damn lights keep breaking\u2014every time we fix one, another
+      flickers out. It\u2019s like the darkness is alive down here. I\u2019ve checked
+      the wiring a dozen times, but nothing explains it."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737290
+    m_Localized: "We can\u2019t seal it off! Every time we block the entrance, something
+      forces it open again. Planks, lockers, tables\u2014it doesn\u2019t matter,
+      they\u2019re thrown aside like twigs. It\u2019s like the room itself wants
+      to stay open. I don\u2019t know what we dug into, but it\u2019s not natural\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737291
+    m_Localized: "The graveyard keeps growing. We buried four more today\u2014miners
+      from the lower shafts. They said the supports gave out, but the ones who survived
+      swear they heard whispers before the collapse. We\u2019re running out of space\u2026
+      and prayers."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737292
+    m_Localized: "Something\u2019s wrong with the air down here. It feels thicker,
+      heavier, like it\u2019s choking the life out of me. The others feel it too,
+      we shouldn\u2019t be here."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28546505015386112
+    m_Localized: "I took the picture\u2026 but something changed. It\u2019s like
+      it knew, like it saw me through the lens. Be quick, don't linger."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28546505015386113
+    m_Localized: "The power is out again. I found a bucket of oil in storage. Let\u2019s
+      hope the generator still works."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

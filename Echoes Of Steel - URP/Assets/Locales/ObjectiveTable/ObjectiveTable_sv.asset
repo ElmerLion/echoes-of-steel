@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ObjectiveTable_sv
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: sv
+  m_SharedData: {fileID: 11400000, guid: d33529f74db4a184ba509b01f1a8de1a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 30077706240
+    m_Localized: "Hitta ett s\xE4tt att fly fr\xE5n denna plats"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30119649280
+    m_Localized: "Utf\xF6r ritualen f\xF6r att f\xF6rsvaga andarna"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30119649281
+    m_Localized: "Unders\xF6k k\xE4llan till ljudet"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30119649282
+    m_Localized: "Utforska den ny\xF6ppnade passagen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30119649283
+    m_Localized: "Slutf\xF6r den sista ritualen f\xF6r att f\xF6rvisa andarna"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30119649284
+    m_Localized: "Hitta utg\xE5ngen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30119649285
+    m_Localized: '{0} sekunder'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10537870385152
+    m_Localized: "Det finns ingen v\xE4g ut..."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

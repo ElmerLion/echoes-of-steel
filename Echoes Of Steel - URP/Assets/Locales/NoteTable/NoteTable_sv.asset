@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: NoteTable_sv
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: sv
+  m_SharedData: {fileID: 11400000, guid: bc2dcb63b8bf34147ae59939cde0fd66, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 28531573830017024
+    m_Localized: "Memo till ledningen: Vi har haft ytterligare en incident med enhet
+      #57. Rekommenderar att sluta anv\xE4nda denna modell tills vidare."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573876154368
+    m_Localized: "Maskininspektion planerad till n\xE4sta m\xE5ndag. Tv\xE5 enheter
+      \xE4r offline. Rutinkontroll\u2026 men jag h\xF6r fortfarande det d\xE4r ljudet.
+      Har n\xE5gon kollat norra flygeln nyligen?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573880348672
+    m_Localized: "Ing\xE5ngen till norra flygeln kollapsade precis p\xE5 grund av
+      n\xE5gon sorts chockv\xE5g. Det kommer konstiga ljud fr\xE5n andra sidan..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573884542976
+    m_Localized: "Jag l\xE4mnar den h\xE4r ficklampan till n\xE4sta olyckliga sj\xE4l
+      som hamnar h\xE4r..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737280
+    m_Localized: "Jag s\xE5g det\u2026 ritualen misslyckades. Det var inte bara ljusen
+      eller cirkeln. Den tittade p\xE5 mig, v\xE4ntade p\xE5 att jag skulle g\xF6ra
+      ett misstag."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737281
+    m_Localized: "Jag vet inte vad det d\xE4r ljudet var... l\xE4t som om n\xE5gon
+      sorts maskin startade."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737282
+    m_Localized: "Ljusen m\xE5ste placeras r\xE4tt, annars fungerar det inte..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737283
+    m_Localized: "De sa att jag beh\xF6vde en bit av dess sj\xE4l f\xF6r ritualen.
+      Inte dess kropp\u2026 n\xE5got mer. Jag trodde att kanske ett foto kunde f\xE5nga
+      det. Men att komma tillr\xE4ckligt n\xE4ra, om du l\xE4ser detta, var f\xF6rsiktig.
+      Det tittar, det lyssnar och det gl\xF6mmer aldrig."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737284
+    m_Localized: "Det finns n\xE5got ur\xE5ldrigt i dessa v\xE4ggar. Det \xE4r inte
+      bara maskinerna som \xE4r vid liv. Hela byggnaden skiftar och b\xF6jer sig
+      efter dess vilja, och f\xE5ngar oss som r\xE5ttor. Vad det \xE4n \xE4r d\xE4r
+      nere vill det inte att vi ska l\xE4mna."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737285
+    m_Localized: "Vi f\xF6rs\xF6kte koppla ur dem, men str\xF6mmen \xE5terkommer
+      hela tiden. Det \xE4r som om maskinerna \xE4r levande, och livn\xE4r sig p\xE5
+      n\xE5got vi inte kan se."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737286
+    m_Localized: "Ledningen visste vad de gjorde. De ville pressa maskinerna och
+      se vad som skulle h\xE4nda. Vi var bara datapunkter f\xF6r dem. Nu har maskinerna
+      v\xE4nt sig mot oss, och ledningen finns ingenstans."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737287
+    m_Localized: "Hittade n\xE5got konstigt idag\u2014en skalle, men inte fr\xE5n
+      n\xE5got djur jag n\xE5gonsin sett. N\xE4stan k\xE4nns\u2026 levande. Det var
+      n\xE4ra den gamla utgr\xE4vningsplatsen, gl\xF6dande svagt i fackelljuset.
+      Jag vet inte varf\xF6r, men jag k\xE4nner att det \xE4r viktigt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737288
+    m_Localized: "Vi uppt\xE4ckte ett rum idag\u2026 ett konstigt, djupt under berget.
+      Det finns en brunn i mitten, torr som ett ben, omgiven av gamla gravar. Luften
+      \xE4r tung, som om den trycker mot mitt br\xF6st, och det \xE4r n\xE5got\u2026
+      som tittar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737289
+    m_Localized: "De h\xE4r j\xE4kla lamporna forts\xE4tter att g\xE5 s\xF6nder\u2014varje
+      g\xE5ng vi fixar en, b\xF6rjar en annan flimra. Det \xE4r som om m\xF6rkret
+      \xE4r levande h\xE4r nere. Jag har kollat ledningarna ett dussin g\xE5nger,
+      men inget f\xF6rklarar det."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737290
+    m_Localized: "Vi kan inte f\xF6rsegla det! Varje g\xE5ng vi blockerar ing\xE5ngen,
+      tvingar n\xE5got upp den igen. Br\xE4dor, sk\xE5p, bord\u2014det spelar ingen
+      roll, de kastas \xE5t sidan som kvistar. Det \xE4r som om rummet sj\xE4lvt
+      vill h\xE5lla sig \xF6ppet. Jag vet inte vad vi gr\xE4vde fram, men det \xE4r
+      inte naturligt\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737291
+    m_Localized: "Kyrkog\xE5rden forts\xE4tter att v\xE4xa. Vi begravde fyra till
+      idag\u2014gruvarbetare fr\xE5n de l\xE4gre schakten. De sa att st\xF6den gav
+      vika, men de som \xF6verlevde sv\xE4r att de h\xF6rde viskningar innan raset.
+      Vi h\xE5ller p\xE5 att f\xE5 slut p\xE5 plats\u2026 och b\xF6ner."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737292
+    m_Localized: "N\xE5got \xE4r fel med luften h\xE4r nere. Den k\xE4nns tjockare,
+      tyngre, som om den kv\xE4ver livet ur mig. De andra k\xE4nner det ocks\xE5,
+      vi borde inte vara h\xE4r."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28546505015386112
+    m_Localized: "Jag tog bilden\u2026 men n\xE5got f\xF6r\xE4ndrades. Det \xE4r
+      som om det visste, som om det s\xE5g mig genom linsen. Var snabb, dr\xF6j inte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28546505015386113
+    m_Localized: "Str\xF6mmen \xE4r av igen. Jag hittade en hink olja i f\xF6rr\xE5det.
+      L\xE5t oss hoppas att generatorn fortfarande fungerar."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

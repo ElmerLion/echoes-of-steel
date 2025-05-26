@@ -1,0 +1,290 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MainTable_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 9e99eb77e43bc3e4ba29a2067a0667f1, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 2541430262554624
+    m_Localized: Afficher HUD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2537668705869824
+    m_Localized: Volume principal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2537512925224960
+    m_Localized: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2494337405771776
+    m_Localized: Quitter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2492994909724672
+    m_Localized: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2491971252084736
+    m_Localized: "D\xE9marrer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24133107712
+    m_Localized: Ramasser {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541430262554625
+    m_Localized: Langue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541430262554626
+    m_Localized: UI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541430262554627
+    m_Localized: Volume de la musique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541430262554628
+    m_Localized: Volume des effets sonores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541430262554629
+    m_Localized: Volume d'ambiance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541430262554630
+    m_Localized: Volume de jumpscare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3609869752045568
+    m_Localized: Continuer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967415525376
+    m_Localized: Menu Principal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719680
+    m_Localized: Interagir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719681
+    m_Localized: Utiliser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719682
+    m_Localized: Sprinter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719683
+    m_Localized: Marcher en avant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719684
+    m_Localized: Reculer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719685
+    m_Localized: "Marcher \xE0 droite"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719686
+    m_Localized: "Marcher \xE0 gauche"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719687
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3619935939039232
+    m_Localized: "Appuyez sur une touche pour r\xE9assigner"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3628633574969344
+    m_Localized: "L\xE2cher l'objet"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3629475065597952
+    m_Localized: "Sensibilit\xE9 de la souris"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3629436649967616
+    m_Localized: Autre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640658677760
+    m_Localized: Placer les bougies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640683843584
+    m_Localized: Allumer les bougies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640683843585
+    m_Localized: "Placer la photo de l\u2019animatronique"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037888
+    m_Localized: Placer la pioche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037889
+    m_Localized: "Sacrifier le cr\xE2ne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037890
+    m_Localized: Marquer la zone du rituel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037891
+    m_Localized: Utiliser le pendentif
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037892
+    m_Localized: "\xC9chapper"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037893
+    m_Localized: Dans {0} heures {1} minutes et {2} secondes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037894
+    m_Localized: Dans {0} minutes et {1} secondes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037895
+    m_Localized: "Jouer \xE0 nouveau"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037896
+    m_Localized: "Vous avez \xE9chapp\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037897
+    m_Localized: "Cr\xE9dits"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037898
+    m_Localized: Aucun animatronique dans la photo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037899
+    m_Localized: Basculer l'interrupteur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037900
+    m_Localized: Pas de courant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34420980239917056
+    m_Localized: "D\xE9truisez d'abord l'objet du haut"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34420980269277184
+    m_Localized: "Besoin d'un outil pour d\xE9truire"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34420980269277185
+    m_Localized: "Contr\xF4les"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34420980273471488
+    m_Localized: "G\xE9n\xE9ral"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34420980273471489
+    m_Localized: Lire la note
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34420980273471490
+    m_Localized: "Luminosit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34431374186602496
+    m_Localized: "Activ\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34431374228545536
+    m_Localized: "D\xE9sactiv\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34431374228545537
+    m_Localized: Inventaire plein
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34435881708642304
+    m_Localized: "Afficher la barre d\u2019endurance"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34435881738002432
+    m_Localized: "Remplir le seau avec de l\u2019huile"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34435881738002433
+    m_Localized: "Remplir le g\xE9n\xE9rateur avec de l\u2019huile"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34443776923885568
+    m_Localized: "R\xE9glez votre luminosit\xE9 pour que vous puissiez \xE0 peine
+      voir tout le texte"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36971812525268992
+    m_Localized: "La porte ne s\u2019ouvre pas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38428621253468160
+    m_Localized: "Ajoutez \xE0 votre liste de souhaits maintenant !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38428621287022592
+    m_Localized: Oui
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38428621287022593
+    m_Localized: Non
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38428621287022594
+    m_Localized: "\xCAtes-vous s\xFBr de vouloir quitter ? Vous perdrez tous vos
+      progr\xE8s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38428621287022595
+    m_Localized: "\xCAtes-vous s\xFBr de vouloir revenir au menu principal ? Vous
+      perdrez tous vos progr\xE8s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40243821753491456
+    m_Localized: "Un contr\xF4leur a \xE9t\xE9 d\xE9tect\xE9, voulez-vous l'utiliser\_?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40243821791240192
+    m_Localized: "Entr\xE9e de jeu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40243821791240193
+    m_Localized: Clavier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40243821791240194
+    m_Localized: Manette
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

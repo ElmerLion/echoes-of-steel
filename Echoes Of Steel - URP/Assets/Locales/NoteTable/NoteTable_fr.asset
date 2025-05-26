@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: NoteTable_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: bc2dcb63b8bf34147ae59939cde0fd66, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 28531573830017024
+    m_Localized: "Note \xE0 la direction : Nous avons eu un autre incident avec l'Unit\xE9
+      #57. Recommandez de cesser l'utilisation de ce mod\xE8le jusqu'\xE0 nouvel
+      ordre."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573876154368
+    m_Localized: "Inspection des machines pr\xE9vue lundi prochain. Deux unit\xE9s
+      hors ligne. Maintenance de routine... mais j'entends toujours ce bruit. Quelqu'un
+      a v\xE9rifi\xE9 l'aile nord r\xE9cemment?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573880348672
+    m_Localized: "L'entr\xE9e de l'aile nord vient de s'effondrer \xE0 cause d'une
+      sorte d'onde de choc. Il y a des bruits \xE9tranges venant de l'autre c\xF4t\xE9..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573884542976
+    m_Localized: "Je laisse cette lampe de poche pour la prochaine \xE2me malheureuse
+      qui se retrouve ici..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737280
+    m_Localized: "Je l'ai vu... le rituel a \xE9chou\xE9. Ce n'\xE9tait pas seulement
+      les bougies ou le cercle. \xC7a me regardait, attendant que je fasse une erreur."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737281
+    m_Localized: "Je ne sais pas ce que c'\xE9tait que ce bruit... on aurait dit
+      une sorte de machine qui d\xE9marrait."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737282
+    m_Localized: "Les bougies doivent \xEAtre plac\xE9es correctement sinon \xE7a
+      ne marchera pas..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737283
+    m_Localized: "Ils ont dit que j'avais besoin d'un morceau de son \xE2me pour
+      le rituel. Pas seulement son corps... quelque chose de plus. J'ai pens\xE9
+      qu'une photo pourrait le capturer. Mais s'en approcher est dangereux, si vous
+      lisez ceci, soyez prudent. Il regarde, il \xE9coute, et il n'oublie jamais."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737284
+    m_Localized: "Il y a quelque chose d'ancien dans ces murs. Ce ne sont pas seulement
+      les machines qui sont vivantes. Tout le b\xE2timent se d\xE9place et se plie
+      \xE0 sa volont\xE9, nous pi\xE9geant \xE0 l'int\xE9rieur comme des rats. Quoi
+      que ce soit, il ne veut pas que nous partions."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737285
+    m_Localized: "Nous avons essay\xE9 de les d\xE9connecter, mais l'alimentation
+      continue de revenir. C'est comme si les machines \xE9taient vivantes, se nourrissant
+      de quelque chose que nous ne pouvons pas voir."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737286
+    m_Localized: "La direction savait ce qu'elle faisait. Ils voulaient pousser les
+      machines, voir ce qui se passerait. Nous n'\xE9tions que des points de donn\xE9es
+      pour eux. Maintenant, les machines se sont retourn\xE9es contre nous, et la
+      direction est introuvable."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737287
+    m_Localized: "J\u2019ai trouv\xE9 quelque chose d\u2019\xE9trange aujourd\u2019hui\u2014un
+      cr\xE2ne, mais pas d\u2019un animal que j\u2019ai d\xE9j\xE0 vu. Il semble
+      presque... vivant. Il \xE9tait pr\xE8s de l\u2019ancien site de fouilles, faiblement
+      lumineux sous la lumi\xE8re de la torche. Je ne sais pas pourquoi, mais j\u2019ai
+      l\u2019impression qu\u2019il est important."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737288
+    m_Localized: "Nous avons d\xE9couvert une salle aujourd\u2019hui\u2026 une \xE9trange,
+      profond\xE9ment enfouie sous la roche. Il y a un puits au centre, aussi sec
+      qu\u2019un os, entour\xE9 de vieilles tombes. L\u2019air est lourd, comme s\u2019il
+      \xE9crasait ma poitrine, et il y a quelque chose\u2026 qui regarde."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737289
+    m_Localized: "Ces fichues lumi\xE8res continuent de se casser\u2014chaque fois
+      qu\u2019on en r\xE9pare une, une autre clignote. C\u2019est comme si l\u2019obscurit\xE9
+      \xE9tait vivante ici. J\u2019ai v\xE9rifi\xE9 le c\xE2blage une douzaine de
+      fois, mais rien ne l\u2019explique."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737290
+    m_Localized: "Nous ne pouvons pas le sceller ! Chaque fois que nous bloquons
+      l\u2019entr\xE9e, quelque chose la force \xE0 s\u2019ouvrir \xE0 nouveau. Planches,
+      casiers, tables\u2014peu importe, ils sont jet\xE9s de c\xF4t\xE9 comme des
+      brindilles. C\u2019est comme si la pi\xE8ce elle-m\xEAme voulait rester ouverte.
+      Je ne sais pas ce que nous avons creus\xE9, mais ce n\u2019est pas naturel\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737291
+    m_Localized: "Le cimeti\xE8re ne cesse de s\u2019agrandir. Nous avons enterr\xE9
+      quatre autres aujourd\u2019hui\u2014des mineurs des niveaux inf\xE9rieurs.
+      Ils ont dit que les supports avaient c\xE9d\xE9, mais ceux qui ont surv\xE9cu
+      jurent avoir entendu des murmures avant l\u2019effondrement. Nous manquons
+      d\u2019espace\u2026 et de pri\xE8res."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737292
+    m_Localized: "Quelque chose ne va pas avec l\u2019air ici en bas. Il semble plus
+      \xE9pais, plus lourd, comme s\u2019il m\u2019\xE9touffait. Les autres le ressentent
+      aussi, nous ne devrions pas \xEAtre ici."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28546505015386112
+    m_Localized: "J\u2019ai pris la photo\u2026 mais quelque chose a chang\xE9. C\u2019est
+      comme s\u2019il savait, comme s\u2019il me voyait \xE0 travers l\u2019objectif.
+      Soyez rapide, ne tra\xEEnez pas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28546505015386113
+    m_Localized: "Le courant est encore coup\xE9. J\u2019ai trouv\xE9 un seau d\u2019huile
+      dans le stockage. Esp\xE9rons que le g\xE9n\xE9rateur fonctionne encore."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

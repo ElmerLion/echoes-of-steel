@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cf4a2973d4d6e847bdfda7a202ef988, type: 3}
+  m_Name: KnowledgeBook
+  m_EditorClassIdentifier: 
+  itemName: Book of Knowledge
+  itemSprite: {fileID: 21300000, guid: 5bda8c9c23063a7429713ed0c2ee11e4, type: 3}
+  prefab: {fileID: 8841723097411384149, guid: 3f770dff59d7f7944ba39f345b4895ef, type: 3}

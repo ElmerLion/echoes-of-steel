@@ -1,0 +1,311 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: MainTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: MainTable
+  m_TableCollectionNameGuidString: 9e99eb77e43bc3e4ba29a2067a0667f1
+  m_Entries:
+  - m_Id: 40243821753491456
+    m_Key: ControllerDetected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40243821791240192
+    m_Key: GameInput
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40243821791240193
+    m_Key: Keyboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40243821791240194
+    m_Key: Gamepad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541430262554624
+    m_Key: ShowHud
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541430262554625
+    m_Key: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541430262554626
+    m_Key: UI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541430262554627
+    m_Key: MusicVolume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541430262554628
+    m_Key: SoundEffectsVolume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541430262554629
+    m_Key: EnvironmentVolume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541430262554630
+    m_Key: JumpscareVolume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24133107712
+    m_Key: Interact_Pickup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2491971252084736
+    m_Key: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2492994909724672
+    m_Key: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2494337405771776
+    m_Key: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2537512925224960
+    m_Key: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2537668705869824
+    m_Key: 'MasterVolume
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3609869752045568
+    m_Key: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967415525376
+    m_Key: MainMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719680
+    m_Key: Interact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719681
+    m_Key: Use
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719682
+    m_Key: Sprint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719683
+    m_Key: WalkForward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719684
+    m_Key: WalkBackward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719685
+    m_Key: WalkRight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719686
+    m_Key: WalkLeft
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719687
+    m_Key: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3619935939039232
+    m_Key: PressAnyKeyToRebind
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3628633574969344
+    m_Key: DropItem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3629436649967616
+    m_Key: Other
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3629475065597952
+    m_Key: MouseSensitivity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640658677760
+    m_Key: PlaceCandles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640683843584
+    m_Key: LightCandles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640683843585
+    m_Key: PlaceAnimatronicPhoto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037888
+    m_Key: PlacePickaxe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037889
+    m_Key: SacrificeSkull
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037890
+    m_Key: MarkRitualArea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037891
+    m_Key: UsePendant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037892
+    m_Key: Escape
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037893
+    m_Key: InHoursMinutesSeconds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037894
+    m_Key: InMinutesSeconds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037895
+    m_Key: PlayAgain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037896
+    m_Key: YouEscaped
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037897
+    m_Key: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037898
+    m_Key: NoAnimatronicInPhoto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037899
+    m_Key: FlipSwitch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037900
+    m_Key: NoPower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34420980239917056
+    m_Key: DestroyTopObjectFirst
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34420980269277184
+    m_Key: NeedToolToDestroy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34420980269277185
+    m_Key: Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34420980273471488
+    m_Key: General
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34420980273471489
+    m_Key: ReadNote
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34420980273471490
+    m_Key: Brightness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34431374186602496
+    m_Key: On
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34431374228545536
+    m_Key: Off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34431374228545537
+    m_Key: InventoryFull
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34435881708642304
+    m_Key: ShowStaminaBar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34435881738002432
+    m_Key: RefillBucketWithOil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34435881738002433
+    m_Key: FillGeneratorWithOil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34443776923885568
+    m_Key: SetBrightnessText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36971812525268992
+    m_Key: "DoorWontOpen\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38428621253468160
+    m_Key: WishlistNow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38428621287022592
+    m_Key: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38428621287022593
+    m_Key: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38428621287022594
+    m_Key: QuitConfirmation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38428621287022595
+    m_Key: MainMenuConfirmation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40243821753491456
+    m_Key: ControllerDetected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40243821791240192
+    m_Key: GameInput
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40243821791240193
+    m_Key: Keyboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40243821791240194
+    m_Key: Gamepad
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6621990228976205848
+  references:
+    version: 2
+    RefIds:
+    - rid: 6621990228976205848
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1727773926143

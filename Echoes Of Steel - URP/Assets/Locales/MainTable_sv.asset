@@ -1,0 +1,289 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MainTable_sv
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: sv
+  m_SharedData: {fileID: 11400000, guid: 9e99eb77e43bc3e4ba29a2067a0667f1, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 2541430262554624
+    m_Localized: Visa HUD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2537668705869824
+    m_Localized: Huvudvolym
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2537512925224960
+    m_Localized: Ljud
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2494337405771776
+    m_Localized: Avsluta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2492994909724672
+    m_Localized: Alternativ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2491971252084736
+    m_Localized: Starta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24133107712
+    m_Localized: Plocka upp {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541430262554625
+    m_Localized: "Spr\xE5k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541430262554626
+    m_Localized: UI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541430262554627
+    m_Localized: Musikvolym
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541430262554628
+    m_Localized: Ljudeffektsvolym
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541430262554629
+    m_Localized: "Milj\xF6volym"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541430262554630
+    m_Localized: Jumpscare-volym
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3609869752045568
+    m_Localized: "Forts\xE4tt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967415525376
+    m_Localized: Huvudmeny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719680
+    m_Localized: Interagera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719681
+    m_Localized: "Anv\xE4nda"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719682
+    m_Localized: Sprinta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719683
+    m_Localized: "G\xE5 Fram\xE5t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719684
+    m_Localized: "G\xE5 Bak\xE5t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719685
+    m_Localized: "G\xE5 H\xF6ger"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719686
+    m_Localized: "G\xE5 V\xE4nster"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719687
+    m_Localized: Pausa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3619935939039232
+    m_Localized: "Tryck p\xE5 valfri tangent f\xF6r att ombinda"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3628633574969344
+    m_Localized: "Sl\xE4pp F\xF6rem\xE5l"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3629436649967616
+    m_Localized: Annat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3629475065597952
+    m_Localized: "Musk\xE4nslighet"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640658677760
+    m_Localized: Placera ljus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640683843584
+    m_Localized: "T\xE4nda ljus"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640683843585
+    m_Localized: Placera animatronikfoto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037888
+    m_Localized: Placera hacka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037889
+    m_Localized: Offra skalle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037890
+    m_Localized: "M\xE4rk ritualomr\xE5det"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037891
+    m_Localized: "Anv\xE4nd h\xE4ngsmycke"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037892
+    m_Localized: Fly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037893
+    m_Localized: Om {0} timmar {1} minuter och {2} sekunder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037894
+    m_Localized: Om {0} minuter och {1} sekunder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037895
+    m_Localized: Spela igen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037896
+    m_Localized: Du flydde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037897
+    m_Localized: Tack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037898
+    m_Localized: Ingen animatronik i bilden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037899
+    m_Localized: "Sl\xE5 p\xE5 brytaren"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037900
+    m_Localized: "Ingen str\xF6m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34420980239917056
+    m_Localized: "F\xF6rst\xF6r det \xF6versta objektet f\xF6rst"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34420980269277184
+    m_Localized: "Beh\xF6ver ett verktyg f\xF6r att f\xF6rst\xF6ra"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34420980269277185
+    m_Localized: Kontroller
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34420980273471488
+    m_Localized: "Allm\xE4nt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34420980273471489
+    m_Localized: "L\xE4s not"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34420980273471490
+    m_Localized: Ljusstyrka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34431374186602496
+    m_Localized: "P\xE5"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34431374228545536
+    m_Localized: Av
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34431374228545537
+    m_Localized: "Inventariet \xE4r fullt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34435881708642304
+    m_Localized: "Visa uth\xE5llighetsf\xE4ltet"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34435881738002432
+    m_Localized: Fyll hinken med olja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34435881738002433
+    m_Localized: Fyll generatorn med olja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34443776923885568
+    m_Localized: "Justera ljusstyrkan s\xE5 att du knappt kan se hela texten"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36971812525268992
+    m_Localized: "D\xF6rren g\xE5r inte att \xF6ppna"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38428621253468160
+    m_Localized: "L\xE4gg till i \xF6nskelistan nu!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38428621287022592
+    m_Localized: Ja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38428621287022593
+    m_Localized: Nej
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38428621287022594
+    m_Localized: "\xC4r du s\xE4ker p\xE5 att du vill avsluta? Du kommer att f\xF6rlora
+      alla framsteg."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38428621287022595
+    m_Localized: "\xC4r du s\xE4ker p\xE5 att du vill g\xE5 till huvudmenyn? Du kommer
+      att f\xF6rlora alla fram"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40243821753491456
+    m_Localized: "En handkontroll uppt\xE4cktes, vill du anv\xE4nda den?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40243821791240192
+    m_Localized: Spelinmatning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40243821791240193
+    m_Localized: Tangentbord
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40243821791240194
+    m_Localized: Handkontroll
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

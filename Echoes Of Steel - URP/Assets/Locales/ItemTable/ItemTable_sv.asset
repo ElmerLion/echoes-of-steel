@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ItemTable_sv
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: sv
+  m_SharedData: {fileID: 11400000, guid: 8aa6caf6261e7594d8b728571d60f141, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 665829335040
+    m_Localized: Skalle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 665854500864
+    m_Localized: Yxa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 665854500865
+    m_Localized: Batteri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 665854500866
+    m_Localized: Hink
+    m_Metadata:
+      m_Items: []
+  - m_Id: 665854500867
+    m_Localized: Kamera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 665854500868
+    m_Localized: Ljus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 665854500869
+    m_Localized: Ficklampa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 665854500870
+    m_Localized: Krita
+    m_Metadata:
+      m_Items: []
+  - m_Id: 665854500871
+    m_Localized: "T\xE4ndare"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 665854500872
+    m_Localized: "H\xE4ngsmycke"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 665854500873
+    m_Localized: Foto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 665854500874
+    m_Localized: Hacka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 665854500875
+    m_Localized: Elpistol
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

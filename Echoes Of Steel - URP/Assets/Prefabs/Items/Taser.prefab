@@ -1,0 +1,230 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4924657959232036024
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4339579501649839486}
+  - component: {fileID: 3840542432776293421}
+  - component: {fileID: 775337639483975260}
+  m_Layer: 0
+  m_Name: Taser
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4339579501649839486
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4924657959232036024}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8807261811456924865}
+  - {fileID: 4826728125826299814}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3840542432776293421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4924657959232036024}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2565c49b83003a418c62b4484d506cd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactText:
+    m_TableReference:
+      m_TableCollectionName: GUID:9e99eb77e43bc3e4ba29a2067a0667f1
+    m_TableEntryReference:
+      m_KeyId: 24133107712
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  inventoryFullText:
+    m_TableReference:
+      m_TableCollectionName: GUID:9e99eb77e43bc3e4ba29a2067a0667f1
+    m_TableEntryReference:
+      m_KeyId: 34431374228545537
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  itemSO: {fileID: 11400000, guid: ee21e9bb507228c44b4805a8a3a5427c, type: 2}
+  holdOffset: {x: 0, y: 0, z: 0}
+  flashlightPowerLed: {fileID: 0}
+  firePoint: {fileID: 4826728125826299814}
+  taserTrail: {fileID: 3976695362154801859, guid: 45ba04f9460825d47ba3bd5d1d6a8652,
+    type: 3}
+  taserSO: {fileID: 11400000, guid: ee21e9bb507228c44b4805a8a3a5427c, type: 2}
+  stunDuration: 3.5
+  range: 10
+  cooldown: 15
+  references:
+    version: 2
+    RefIds: []
+--- !u!65 &775337639483975260
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4924657959232036024}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.061056957, y: 0.11123273, z: 0.24186565}
+  m_Center: {x: -0.0007125735, y: 0.06484574, z: 0.066885255}
+--- !u!1 &6267001907889055574
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4826728125826299814}
+  m_Layer: 0
+  m_Name: FirePoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4826728125826299814
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6267001907889055574}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.0921, z: 0.1942}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4339579501649839486}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &7260167171636076697
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4339579501649839486}
+    m_Modifications:
+    - target: {fileID: 85070655078864726, guid: a4bc4091eb9f3ad4db3ad8e2731d000c,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2231786949588483160, guid: a4bc4091eb9f3ad4db3ad8e2731d000c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2231786949588483160, guid: a4bc4091eb9f3ad4db3ad8e2731d000c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0444
+      objectReference: {fileID: 0}
+    - target: {fileID: 2231786949588483160, guid: a4bc4091eb9f3ad4db3ad8e2731d000c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2231786949588483160, guid: a4bc4091eb9f3ad4db3ad8e2731d000c,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 2231786949588483160, guid: a4bc4091eb9f3ad4db3ad8e2731d000c,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2231786949588483160, guid: a4bc4091eb9f3ad4db3ad8e2731d000c,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 2231786949588483160, guid: a4bc4091eb9f3ad4db3ad8e2731d000c,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2231786949588483160, guid: a4bc4091eb9f3ad4db3ad8e2731d000c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2231786949588483160, guid: a4bc4091eb9f3ad4db3ad8e2731d000c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 2231786949588483160, guid: a4bc4091eb9f3ad4db3ad8e2731d000c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4197784767449497198, guid: a4bc4091eb9f3ad4db3ad8e2731d000c,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4738555756485930649, guid: a4bc4091eb9f3ad4db3ad8e2731d000c,
+        type: 3}
+      propertyPath: m_Name
+      value: TaserVisual
+      objectReference: {fileID: 0}
+    - target: {fileID: 8223755539953610842, guid: a4bc4091eb9f3ad4db3ad8e2731d000c,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8469383159740081000, guid: a4bc4091eb9f3ad4db3ad8e2731d000c,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 8469383159740081000, guid: a4bc4091eb9f3ad4db3ad8e2731d000c, type: 3}
+    - {fileID: 4197784767449497198, guid: a4bc4091eb9f3ad4db3ad8e2731d000c, type: 3}
+    - {fileID: 85070655078864726, guid: a4bc4091eb9f3ad4db3ad8e2731d000c, type: 3}
+    - {fileID: 8223755539953610842, guid: a4bc4091eb9f3ad4db3ad8e2731d000c, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a4bc4091eb9f3ad4db3ad8e2731d000c, type: 3}
+--- !u!4 &8807261811456924865 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2231786949588483160, guid: a4bc4091eb9f3ad4db3ad8e2731d000c,
+    type: 3}
+  m_PrefabInstance: {fileID: 7260167171636076697}
+  m_PrefabAsset: {fileID: 0}

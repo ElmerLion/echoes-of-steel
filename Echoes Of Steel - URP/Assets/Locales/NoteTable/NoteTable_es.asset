@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: NoteTable_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: bc2dcb63b8bf34147ae59939cde0fd66, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 28531573830017024
+    m_Localized: 'Nota a la gerencia: Hemos tenido otro incidente con la Unidad #57.
+      Recomendamos suspender el uso de este modelo hasta nuevo aviso.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573876154368
+    m_Localized: "Inspecci\xF3n de maquinaria prevista para el pr\xF3ximo lunes.
+      Dos unidades desconectadas. Mantenimiento rutinario\u2026 pero sigo escuchando
+      ese sonido. \xBFAlguien ha revisado el ala norte recientemente?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573880348672
+    m_Localized: "La entrada del ala norte acaba de colapsar por alg\xFAn tipo de
+      onda de choque. Se escuchan ruidos extra\xF1os del otro lado..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573884542976
+    m_Localized: "Dejo esta linterna para la pr\xF3xima alma desafortunada que termine
+      aqu\xED..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737280
+    m_Localized: "Lo vi... el ritual fall\xF3. No eran solo las velas o el c\xEDrculo.
+      Me estaba observando, esperando a que cometiera un error."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737281
+    m_Localized: "No s\xE9 qu\xE9 era ese sonido... sonaba como si alguna m\xE1quina
+      se estuviera encendiendo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737282
+    m_Localized: "Las velas deben colocarse correctamente o no funcionar\xE1..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737283
+    m_Localized: "Dijeron que necesitaba un pedazo de su alma para el ritual. No
+      su cuerpo\u2026 algo m\xE1s. Pens\xE9 que quiz\xE1s una foto podr\xEDa capturarlo.
+      Pero acercarse lo suficiente, si est\xE1s leyendo esto, ten cuidado. Observa,
+      escucha y nunca olvida."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737284
+    m_Localized: "Hay algo antiguo en estas paredes. No son solo las m\xE1quinas
+      las que est\xE1n vivas. Todo el edificio se desplaza y se dobla a su voluntad,
+      atrap\xE1ndonos dentro como ratas. Lo que sea que est\xE9 aqu\xED abajo no
+      quiere que nos vayamos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737285
+    m_Localized: "Intentamos desconectarlas, pero la energ\xEDa sigue volviendo.
+      Es como si las m\xE1quinas estuvieran vivas, aliment\xE1ndose de algo que no
+      podemos ver."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737286
+    m_Localized: "La gerencia sab\xEDa lo que estaban haciendo. Quer\xEDan forzar
+      a las m\xE1quinas, ver qu\xE9 pasar\xEDa. Solo \xE9ramos puntos de datos para
+      ellos. Ahora las m\xE1quinas se han vuelto contra nosotros, y la gerencia no
+      se encuentra por ning\xFAn lado."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737287
+    m_Localized: "Hoy encontr\xE9 algo extra\xF1o: un cr\xE1neo, pero no de ning\xFAn
+      animal que haya visto antes. Casi parece\u2026 vivo. Estaba cerca del antiguo
+      sitio de excavaci\xF3n, brillando d\xE9bilmente bajo la luz de la antorcha.
+      No s\xE9 por qu\xE9, pero siento que es importante."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737288
+    m_Localized: "Hoy descubrimos una habitaci\xF3n\u2026 una extra\xF1a, profundamente
+      debajo de la roca. Hay un pozo en el centro, seco como un hueso, rodeado de
+      viejas tumbas. El aire es pesado, como si presionara sobre mi pecho, y hay
+      algo\u2026 observando."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737289
+    m_Localized: "Estas malditas luces siguen fallando\u2014cada vez que arreglamos
+      una, otra parpadea. Es como si la oscuridad estuviera viva aqu\xED abajo. He
+      revisado el cableado una docena de veces, pero nada lo explica."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737290
+    m_Localized: "\xA1No podemos sellarlo! Cada vez que bloqueamos la entrada, algo
+      la fuerza a abrirse nuevamente. Tablas, casilleros, mesas\u2014no importa,
+      son arrojados a un lado como ramas. Es como si la habitaci\xF3n misma quisiera
+      permanecer abierta. No s\xE9 en qu\xE9 hemos cavado, pero no es natural\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737291
+    m_Localized: "El cementerio sigue creciendo. Hoy enterramos a cuatro m\xE1s\u2014mineros
+      de los niveles inferiores. Dijeron que las vigas cedieron, pero los que sobrevivieron
+      juran haber o\xEDdo susurros antes del colapso. Nos estamos quedando sin espacio\u2026
+      y oraciones."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28531573888737292
+    m_Localized: "Algo est\xE1 mal con el aire aqu\xED abajo. Se siente m\xE1s denso,
+      m\xE1s pesado, como si me estuviera ahogando. Los dem\xE1s tambi\xE9n lo sienten,
+      no deber\xEDamos estar aqu\xED."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28546505015386112
+    m_Localized: "Tom\xE9 la foto\u2026 pero algo cambi\xF3. Es como si lo supiera,
+      como si me hubiera visto a trav\xE9s del lente. S\xE9 r\xE1pido, no te demores."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28546505015386113
+    m_Localized: "La electricidad se ha vuelto a cortar. Encontr\xE9 un balde de
+      aceite en el almac\xE9n. Esperemos que el generador a\xFAn funcione."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

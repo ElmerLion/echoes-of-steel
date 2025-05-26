@@ -1,0 +1,288 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MainTable_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 9e99eb77e43bc3e4ba29a2067a0667f1, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 2541430262554624
+    m_Localized: Mostrar HUD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2537668705869824
+    m_Localized: Volumen principal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2537512925224960
+    m_Localized: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2494337405771776
+    m_Localized: Salir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2492994909724672
+    m_Localized: Opciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2491971252084736
+    m_Localized: Comenzar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24133107712
+    m_Localized: Recoger {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541430262554625
+    m_Localized: Idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541430262554626
+    m_Localized: UI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541430262554627
+    m_Localized: "Volumen de m\xFAsica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541430262554628
+    m_Localized: Volumen de efectos de sonido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541430262554629
+    m_Localized: Volumen de entorno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541430262554630
+    m_Localized: Volumen de sustos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3609869752045568
+    m_Localized: Continuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967415525376
+    m_Localized: "Men\xFA Principal"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719680
+    m_Localized: Interactuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719681
+    m_Localized: Usar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719682
+    m_Localized: Esprintar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719683
+    m_Localized: Caminar Hacia Adelante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719684
+    m_Localized: "Caminar Hacia Atr\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719685
+    m_Localized: Caminar a la Derecha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719686
+    m_Localized: Caminar a la Izquierda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3618967419719687
+    m_Localized: Pausa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3619935939039232
+    m_Localized: Presione cualquier tecla para volver a asignar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3628633574969344
+    m_Localized: Soltar objeto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3629475065597952
+    m_Localized: "Sensibilidad del rat\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3629436649967616
+    m_Localized: Otro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640658677760
+    m_Localized: Colocar velas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640683843584
+    m_Localized: Encender velas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640683843585
+    m_Localized: "Colocar la foto del animatr\xF3nico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037888
+    m_Localized: Colocar pico
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037889
+    m_Localized: "Sacrificar el cr\xE1neo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037890
+    m_Localized: "Marcar el \xE1rea del ritual"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037891
+    m_Localized: Usar colgante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037892
+    m_Localized: Escapar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037893
+    m_Localized: En {0} horas {1} minutos y {2} segundos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037894
+    m_Localized: En {0} minutos y {1} segundos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037895
+    m_Localized: Jugar de nuevo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037896
+    m_Localized: Escapaste
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037897
+    m_Localized: "Cr\xE9ditos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037898
+    m_Localized: "No hay animatr\xF3nico en la foto"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037899
+    m_Localized: Cambiar interruptor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28636640688037900
+    m_Localized: "Sin energ\xEDa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34420980239917056
+    m_Localized: Destruye primero el objeto superior
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34420980269277184
+    m_Localized: Necesitas una herramienta para destruir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34420980269277185
+    m_Localized: Controles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34420980273471488
+    m_Localized: General
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34420980273471489
+    m_Localized: Leer nota
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34420980273471490
+    m_Localized: Brillo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34431374186602496
+    m_Localized: Encendido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34431374228545536
+    m_Localized: Apagado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34431374228545537
+    m_Localized: Inventario lleno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34435881708642304
+    m_Localized: Mostrar barra de resistencia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34435881738002432
+    m_Localized: Rellenar el cubo con aceite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34435881738002433
+    m_Localized: Llenar el generador con aceite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34443776923885568
+    m_Localized: Ajusta tu brillo para que apenas puedas ver todo el texto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36971812525268992
+    m_Localized: La puerta no se abre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38428621253468160
+    m_Localized: "\xA1A\xF1ade a tu lista de deseos ahora!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38428621287022592
+    m_Localized: "S\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38428621287022593
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38428621287022594
+    m_Localized: "\xBFEst\xE1s seguro de que quieres salir? Perder\xE1s todo el progreso."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38428621287022595
+    m_Localized: "\xBFEst\xE1s seguro de que quieres ir al men\xFA principal? Perder\xE1s
+      todo el progreso."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40243821753491456
+    m_Localized: "Se detect\xF3 un controlador, \xBFdesea usarlo?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40243821791240192
+    m_Localized: Entrada del juego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40243821791240193
+    m_Localized: Teclado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40243821791240194
+    m_Localized: Mando
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

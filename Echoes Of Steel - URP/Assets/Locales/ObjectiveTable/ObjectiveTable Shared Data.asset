@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: ObjectiveTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: ObjectiveTable
+  m_TableCollectionNameGuidString: d33529f74db4a184ba509b01f1a8de1a
+  m_Entries:
+  - m_Id: 30077706240
+    m_Key: FindWayToEscape
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30119649280
+    m_Key: PerformRitual
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30119649281
+    m_Key: InvestigateNoise
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30119649282
+    m_Key: ExploreNewPassage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30119649283
+    m_Key: CompleteFinalRitual
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30119649284
+    m_Key: FindExit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30119649285
+    m_Key: Seconds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10537870385152
+    m_Key: NoEscape
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3959755045584764930
+  references:
+    version: 2
+    RefIds:
+    - rid: 3959755045584764930
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1736586137636
